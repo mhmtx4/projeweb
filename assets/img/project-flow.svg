@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-label="Proje akış görseli">
+  <rect width="900" height="620" fill="#232735"/>
+  <rect x="60" y="70" width="220" height="130" fill="#f5f7fa"/>
+  <rect x="340" y="70" width="220" height="130" fill="#f5f7fa"/>
+  <rect x="620" y="70" width="220" height="130" fill="#f5f7fa"/>
+  <rect x="60" y="300" width="360" height="220" fill="#f5f7fa"/>
+  <rect x="480" y="300" width="360" height="220" fill="#f5f7fa"/>
+  <path d="M280 135h60M560 135h60M420 410h60" stroke="#d7a441" stroke-width="16"/>
+  <path d="M95 125h150M95 160h105M375 125h150M375 160h85M655 125h150M655 160h118" stroke="#2457a6" stroke-width="14"/>
+  <path d="M105 355h240M105 402h180M105 449h260" stroke="#1b7f64" stroke-width="18"/>
+  <path d="M525 355h240M525 402h145M525 449h210" stroke="#b84735" stroke-width="18"/>
+  <circle cx="170" cy="250" r="28" fill="#1b7f64"/>
+  <circle cx="450" cy="250" r="28" fill="#d7a441"/>
+  <circle cx="730" cy="250" r="28" fill="#b84735"/>
+</svg>
